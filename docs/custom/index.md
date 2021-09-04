@@ -7,7 +7,7 @@
 <p align="center"></p>
 
 ---
-# ZPy Flask MSC
+# CUSTOM Module
 
 > Zurck'z  Py Flask Micro Services Core
 
@@ -58,7 +58,7 @@ Contains some helper modules.
 
 This module contains exactly plugins for use Oracle and AWS System manager with specific models.
 
-[See More](./docs/custom/index.md)
+[See More](../)
 
 
 ## Contributing
