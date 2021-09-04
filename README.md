@@ -2,7 +2,7 @@
   <a  href="https://github.com/NoeCruzMW/zpy-flask-msc-docs"><img width="150" src="https://lh3.googleusercontent.com/a-/AOh14GjLO5qYYR5nQl5hgavUKz4Dv3LVzWDvGtV4xNam=s600-k-no-rp-mo" alt="Zurck'z"></a>
 </p>
 <p align="center">
-    <em>ZPy Flask MSC, easy to learn, fast to code, ready for production</em>
+    <em>ZPy Flask MSC, Layer for build microservices</em>
 </p>
 <p align="center"></p>
 
