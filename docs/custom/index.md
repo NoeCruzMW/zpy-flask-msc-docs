@@ -1,10 +1,11 @@
 # CUSTOM Module
 
-> Zurck'z  Py Flask Micro Services Core
+> Zurck'z Py Flask Micro Services Core
 
 This package contains some helpers features for python microservices using Flask framework
 
-ZPy need of giants, include
+ZPy need the following packages:
+
 - pycryptodome
 - Flask
 - marshmallow
@@ -16,9 +17,7 @@ ZPy need of giants, include
 - Boto 3+
 - Oracle clinet
 
-
 ## Installation
-
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install py flask micro service core .
 
@@ -45,12 +44,12 @@ def create_api():
 ## Features
 
 Contains some helper modules.
-### Custom 
+
+### Custom
 
 This module contains exactly plugins for use Oracle and AWS System manager with specific models.
 
 [See More](../)
-
 
 ## Contributing
 
@@ -59,7 +58,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors
+
 [Noé Cruz](noe.isc20@gmail.com)
